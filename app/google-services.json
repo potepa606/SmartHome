@@ -1,0 +1,85 @@
+{
+  "project_info": {
+    "project_number": "698164167533",
+    "firebase_url": "https://wpam-72ec3.firebaseio.com",
+    "project_id": "wpam-72ec3",
+    "storage_bucket": "wpam-72ec3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:698164167533:android:40dce421984475cb",
+        "android_client_info": {
+          "package_name": "com.example.smarthome"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "698164167533-tvobm2f70bl2v7vq5t11lvqqj8a6g3i0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.smarthome",
+            "certificate_hash": "59a812d73bc44c104f8f465be974e3b922d94bef"
+          }
+        },
+        {
+          "client_id": "698164167533-up90dr6ki2lobd6asjpo5r9t8p4ur19e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAZ4qDJkPqWXkaCVUb7zAjIkyc9QajLk5w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "698164167533-up90dr6ki2lobd6asjpo5r9t8p4ur19e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:698164167533:android:3c446644365ff0f4",
+        "android_client_info": {
+          "package_name": "com.example.sterowanieled"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "698164167533-qinq45ibmefg5uqfqbo4rplpgdktppgb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.sterowanieled",
+            "certificate_hash": "59a812d73bc44c104f8f465be974e3b922d94bef"
+          }
+        },
+        {
+          "client_id": "698164167533-up90dr6ki2lobd6asjpo5r9t8p4ur19e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAZ4qDJkPqWXkaCVUb7zAjIkyc9QajLk5w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "698164167533-up90dr6ki2lobd6asjpo5r9t8p4ur19e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

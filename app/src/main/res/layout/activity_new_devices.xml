@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/background"
+    tools:context=".newDevices">
+
+    <RelativeLayout
+        android:id="@+id/adding"
+        android:text=""
+        android:layout_width="match_parent"
+        android:layout_height="213dp"
+        android:layout_marginBottom="2dp">
+
+        <TextView
+            android:id="@+id/textView"
+            android:text=""
+            android:layout_width="match_parent"
+            android:layout_height="35dp"
+            android:hint="Nazwa" />
+
+        <TextView
+            android:id="@+id/textView2"
+            android:text=""
+            android:layout_width="match_parent"
+            android:layout_height="35dp"
+            android:layout_below="@id/textView"
+            android:hint="ID" />
+
+        <TextView
+            android:id="@+id/textView3"
+            android:layout_width="match_parent"
+            android:layout_height="37dp"
+            android:layout_below="@id/textView2"
+            android:hint="Stan" />
+
+        <Button
+            android:id="@+id/ScannerQR"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/textView3"
+            android:text="Skanuj" />
+
+        <Button
+            android:id="@+id/SendFireBase"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/ScannerQR"
+            android:text="Wyślij" />
+    </RelativeLayout>
+
+
+    <TextView
+        android:id="@+id/textGrid"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/adding"
+        android:layout_centerInParent="false"
+        android:gravity="center"
+        android:text="Moje urządzenia"
+        android:textColor="@android:color/black"
+        android:textSize="25sp" />
+
+
+    <android.support.v7.widget.RecyclerView
+        android:id="@+id/recyclerView"
+        android:layout_width="match_parent"
+        android:layout_height="453dp"
+        android:layout_below="@+id/textGrid"
+        android:layout_marginTop="4dp"/>
+
+
+
+</RelativeLayout>
