@@ -11,14 +11,14 @@ Each door having a driver based on stm32 + Wifi module communicates with the dat
 
 ## Main Activiti app 
 In this place the user has the option to choose to display the device status or add a new one to the database.
-![image](https://user-images.githubusercontent.com/34142069/58507166-64a09f80-8191-11e9-85c0-41ba071936ed.png)
+<img src="https://user-images.githubusercontent.com/34142069/58507166-64a09f80-8191-11e9-85c0-41ba071936ed.png" width="200" height="400"/>
 
 ## Display 
 In this place the user has the option to choose to display the device status or add a new one to the database.
 <span>
 <img src="https://user-images.githubusercontent.com/34142069/75783507-f5c82680-5d60-11ea-9bd0-c1ce6289552b.png" width="200" height="400"/>
 <img src="https://user-images.githubusercontent.com/34142069/75783571-13958b80-5d61-11ea-93d5-51e88ef5a177.png" width="200" height="400"/>
-<img src="https://user-images.githubusercontent.com/34142069/75785904-bef40f80-5d64-11ea-91ec-dc23a9b34c8f.png" width="400" height="400"/>
+<img src="https://user-images.githubusercontent.com/34142069/75785904-bef40f80-5d64-11ea-91ec-dc23a9b34c8f.png" width="400" height="405"/>
  </span>
 
 
