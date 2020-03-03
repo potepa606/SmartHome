@@ -18,7 +18,7 @@ In this place the user has the option to choose to display the device status or 
 <span>
 <img src="https://user-images.githubusercontent.com/34142069/75783507-f5c82680-5d60-11ea-9bd0-c1ce6289552b.png" width="200" height="400"/>
 <img src="https://user-images.githubusercontent.com/34142069/75783571-13958b80-5d61-11ea-93d5-51e88ef5a177.png" width="200" height="400"/>
-<img src="https://user-images.githubusercontent.com/34142069/75785452-08902a80-5d64-11ea-9570-0be64b3176c4.png" width="300" height="400"/>
+<img src="https://user-images.githubusercontent.com/34142069/75785904-bef40f80-5d64-11ea-91ec-dc23a9b34c8f.png" width="400" height="400"/>
  </span>
 
 
